@@ -1,0 +1,12 @@
+05:38:02 - Metatags, Comentarios e Iconos
+05:57:18 - Textarea y Labels
+06:24:18 - Select, Datalist y Option
+06:33:02 - Fieldset y Legend
+06:44:35 - Details y Summary
+06:51:34 - Enlaces (Avanzado)
+07:04:12 - Tablas
+07:22:25 - Audio y Video
+07:34:10 - Lazy Loading
+07:39:37 - HTML Obsoleto
+07:49:10 - HTML Semántico
+07:57:42 - Accesibilidad WEB

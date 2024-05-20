@@ -1,0 +1,7 @@
+00:35:02 - Estructura de una etiqueta
+00:45:48 - Estructura de una página WEB
+00:51:58 - Parrafos y encabezados
+01:00:09 - Listas
+01:10:45 - Enlaces (Básico)
+01:26:09 - Imagenes y Rutas
+01:41:40 - Formularios

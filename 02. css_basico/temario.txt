@@ -1,0 +1,12 @@
+01:56:45 - Introducción a CSS
+02:08:24 - Selectores (Básico)
+02:18:04 - Propiedades de texto y fuente
+02:44:56 - Tipografías externas
+02:55:25 - Modelo de caja (box model)
+03:07:04 - Relleno y Margen (margin y padding)
+03:37:57 - Bordes
+03:53:43 - Tamaño de caja (box sizing)
+04:02:09 - Colores
+04:25:16 - Unidades
+04:50:29 - Fondos, Gradientes y Sombras
+05:31:15 - Ejercicio práctico

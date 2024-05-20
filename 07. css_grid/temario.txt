@@ -1,0 +1,12 @@
+15:05:11 - Introducción a Grid
+15:12:50 - Creando un Grid
+15:24:54 - Unidades "auto" y "fr"
+15:34:24 - Repeat y Minmax
+15:42:18 - Grid implícito y explícito
+15:53:34 - Grid dinámico (y responsive)
+16:04:54 - Grid column y Grid row
+16:14:52 - Grid flow: Dense
+16:19:34 - Grid areas
+16:35:06 - Alineacion con grid
+16:53:28 - Subgrid
+17:02:14 - Creando una página WEB

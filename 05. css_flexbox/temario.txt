@@ -1,0 +1,7 @@
+11:43:11 - Introducción a Flexbox
+11:56:29 - Flex Direction, Flex Wrap y Flex Flow
+12:17:33 - Alineación en los ejes
+12:34:59 - Order
+12:41:37 - Flex Básis, Shrink y Grow
+12:59:10 - Align Self 
+13:02:42 - Layout con Flexbox

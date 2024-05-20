@@ -1,0 +1,7 @@
+18:02:13 - Transiciones (Repaso)
+18:13:13 - Animaciones
+18:29:19 - Botones Animados y Efecto Typewriter
+18:52:42 - Animaciones basadas en Scroll
+19:07:35 - Rango de animaciones
+19:17:33 - Integrando animaciones en una WEB
+19:29:14 - Animaciones, cumpliendo la promesa

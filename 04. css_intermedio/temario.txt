@@ -1,0 +1,15 @@
+08:19:58 - Selectores (Avanzado)
+08:36:14 - Herencia, Cascada y Especificidad
+09:04:51 - Pseudoclases
+09:30:38 - Pseudoelementos
+09:37:51 - Metodología BEM
+09:49:33 - Display
+10:03:21 - Posición Relativa y Absoluta
+10:26:36 - Ventanas Modal
+10:35:20 - Posicion Fixed y Sticky
+10:43:28 - Transiciones
+10:56:53 - Desbordamiento (overflow)
+11:01:49 - Control de flujo del texto
+11:11:54 - Object fit y Object position
+11:16:34 - Contorno (outline)
+11:25:13 - Emmet (material re-usado)

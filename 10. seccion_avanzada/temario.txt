@@ -1,0 +1,10 @@
+20:09:16 - Filter y Backdrop Filter
+20:29:30 - Transform
+20:40:54 - Min, Max y Clamp
+20:54:26 - Variables (custom properties)
+21:05:50 - Función Calc
+21:14:58 - Propiedades del Scroll
+21:22:31 - Initial Letter
+21:27:28 - Unidades del Viewport (Large, Small y Dynámic)
+21:32:45 - Min-content, Max-content y Fit-content
+21:39:19 - Función Color Mix
