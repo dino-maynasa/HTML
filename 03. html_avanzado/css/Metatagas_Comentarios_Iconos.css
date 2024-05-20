@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(215, 229, 250);
+    font-family: cursive;
+}
+.titulo1{
+    background-color: rgb(74, 97, 161);
+    box-shadow: 3px 3px rgb(41, 40, 40);
+    padding-bottom: 2px;
+    text-align: center;
+}
