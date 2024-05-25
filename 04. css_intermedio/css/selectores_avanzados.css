@@ -1,0 +1,31 @@
+/**selector por atributo*/
+img[src$="png"] { /*seleccionamos a las imagenes las imagenes que terminan en .png*/
+    width: 500px;
+    height: 500px;
+}
+/*selector por hijo directo*/
+li > strong{ 
+    color: red; 
+}
+/*selector descendente*/
+ul li{
+    color:orange; 
+}
+/*selector adyacente*/
+h1 + p{ 
+    color: blue;
+}
+/*selector de hermanos generales*/ 
+h1 ~ p{
+    color: blue ;
+}
+/*Existen tipos de selectores:
+•	Selectores universales
+•	Selectores de etiqueta
+•	Selectores de clase
+•	Selectores de identificador
+•	Selector descendiente
+•	Combinación de selectores
+•	Selectores de hijos
+•	Selectores adyacente
+*/
