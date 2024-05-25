@@ -1,0 +1,11 @@
+body{
+color:rgb(241, 45, 19);
+}
+div{
+    color:blueviolet;
+}
+h1{
+    color:inherit; 
+    /* inherit indica que esta herando los colores de la 
+    etiqueta de cual desciende*/
+}

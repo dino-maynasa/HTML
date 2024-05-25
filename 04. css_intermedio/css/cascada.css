@@ -1,0 +1,13 @@
+
+/*especifidad de nivel 1*/
+#titulo_1{
+    color: #ff00ff; 
+}
+/*especifidad de nivel 2*/
+.titulo_1{
+    color: orangered;
+}
+/*especifidad de nivel 3*/ 
+h1{
+    color:blue;
+}

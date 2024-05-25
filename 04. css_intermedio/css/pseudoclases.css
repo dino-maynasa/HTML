@@ -1,0 +1,33 @@
+h1{
+    color: red;
+    font-family: sans-serif;
+}
+/*cambia de color cuando pasamos por encima de la etiqueta */
+h1:hover{ 
+    color: blueviolet;
+    font-family:'Times New Roman';
+    background-color: greenyellow;
+}
+/*cambia de color cuando se le pulsa en el texto.*/
+h1:active{
+    color:purple;
+    background-color: aqua;
+}
+/*inica que cambiara de color al primer li*/
+li:first-child{
+color: red;
+}
+/*indica que cambiara de color al ultimo elemento*/
+li:last-child{
+    color: green;
+}
+/*indica que cambiara de color a un elemento especifico, en este caso saltara de  3  en 3*/
+li:nth-child(3n){
+    color:chocolate;
+}
+li:hover{
+    color:rgb(140, 169, 36);
+}
+li:active{
+    color:rgb(248, 8, 184);
+}
