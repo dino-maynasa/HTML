@@ -19,6 +19,7 @@ h1 + p{
 h1 ~ p{
     color: blue ;
 }
+
 /*Existen tipos de selectores:
 •	Selectores universales
 •	Selectores de etiqueta
